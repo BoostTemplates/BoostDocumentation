@@ -1,0 +1,27 @@
+{
+  "id": "features/routes",
+  "title": "Routes API",
+  "description": "Boost provides structured support to create public, private, and admin routes, facilitating a modular approach to route management.",
+  "source": "@site/docs/features/routes.md",
+  "sourceDirName": "features",
+  "slug": "/features/routes",
+  "permalink": "/docs/features/routes",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/features/routes.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Shop",
+    "permalink": "/docs/features/shop"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/docs/features/configuration"
+  }
+}

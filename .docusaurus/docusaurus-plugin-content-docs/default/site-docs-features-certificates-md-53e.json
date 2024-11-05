@@ -1,0 +1,27 @@
+{
+  "id": "features/certificates",
+  "title": "Certificates",
+  "description": "We recommend using certbot after setting nginx on your server to maintain setup and automatic certificates renewal.",
+  "source": "@site/docs/features/certificates.md",
+  "sourceDirName": "features",
+  "slug": "/features/certificates",
+  "permalink": "/docs/features/certificates",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/features/certificates.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Configuration",
+    "permalink": "/docs/features/configuration"
+  },
+  "next": {
+    "title": "Nginx Configuration Documentation",
+    "permalink": "/docs/features/nginx"
+  }
+}
