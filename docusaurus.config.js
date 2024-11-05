@@ -20,8 +20,9 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'NativeSensors', // Usually your GitHub org/user name.
-  projectName: 'Boost', // Usually your repo name.
+  organizationName: 'BoostTemplates', // Usually your GitHub org/user name.
+  projectName: 'BoostDocumentation', // Usually your repo name.
+  deploymentBranch: 'deployment',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
